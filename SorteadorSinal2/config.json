@@ -1,0 +1,9 @@
+{
+  // deve entrar na propriedade do arquivo e setar para "copiar sempre (always copy)", senão ele não envia a cada execução do compilador.
+  "Chave": "Valor",
+  "ConnectionStrings": {
+    "MySqlConnection": "server=localhost;uid=root;pwd=2443;database=Sinal2Sorteador_Des"
+    //"MySqlConnection":  "Server=MYSQL5043.site4now.net;Database=db_a6ff53_lt;Uid=a6ff53_lt;Pwd=BurroMula2021"
+  }
+}
+
